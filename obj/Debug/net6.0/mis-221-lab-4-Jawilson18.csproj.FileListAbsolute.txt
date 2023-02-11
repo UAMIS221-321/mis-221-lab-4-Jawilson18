@@ -1,0 +1,15 @@
+C:\Users\jackw\Mis221\Labs\Lab4\mis-221-lab-4-Jawilson18\obj\Debug\net6.0\mis-221-lab-4-Jawilson18.csproj.AssemblyReference.cache
+C:\Users\jackw\Mis221\Labs\Lab4\mis-221-lab-4-Jawilson18\obj\Debug\net6.0\mis-221-lab-4-Jawilson18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackw\Mis221\Labs\Lab4\mis-221-lab-4-Jawilson18\obj\Debug\net6.0\mis-221-lab-4-Jawilson18.AssemblyInfoInputs.cache
+C:\Users\jackw\Mis221\Labs\Lab4\mis-221-lab-4-Jawilson18\obj\Debug\net6.0\mis-221-lab-4-Jawilson18.AssemblyInfo.cs
+C:\Users\jackw\Mis221\Labs\Lab4\mis-221-lab-4-Jawilson18\obj\Debug\net6.0\mis-221-lab-4-Jawilson18.csproj.CoreCompileInputs.cache
+C:\Users\jackw\Mis221\Labs\Lab4\mis-221-lab-4-Jawilson18\bin\Debug\net6.0\mis-221-lab-4-Jawilson18.exe
+C:\Users\jackw\Mis221\Labs\Lab4\mis-221-lab-4-Jawilson18\bin\Debug\net6.0\mis-221-lab-4-Jawilson18.deps.json
+C:\Users\jackw\Mis221\Labs\Lab4\mis-221-lab-4-Jawilson18\bin\Debug\net6.0\mis-221-lab-4-Jawilson18.runtimeconfig.json
+C:\Users\jackw\Mis221\Labs\Lab4\mis-221-lab-4-Jawilson18\bin\Debug\net6.0\mis-221-lab-4-Jawilson18.dll
+C:\Users\jackw\Mis221\Labs\Lab4\mis-221-lab-4-Jawilson18\bin\Debug\net6.0\mis-221-lab-4-Jawilson18.pdb
+C:\Users\jackw\Mis221\Labs\Lab4\mis-221-lab-4-Jawilson18\obj\Debug\net6.0\mis-221-lab-4-Jawilson18.dll
+C:\Users\jackw\Mis221\Labs\Lab4\mis-221-lab-4-Jawilson18\obj\Debug\net6.0\refint\mis-221-lab-4-Jawilson18.dll
+C:\Users\jackw\Mis221\Labs\Lab4\mis-221-lab-4-Jawilson18\obj\Debug\net6.0\mis-221-lab-4-Jawilson18.pdb
+C:\Users\jackw\Mis221\Labs\Lab4\mis-221-lab-4-Jawilson18\obj\Debug\net6.0\mis-221-lab-4-Jawilson18.genruntimeconfig.cache
+C:\Users\jackw\Mis221\Labs\Lab4\mis-221-lab-4-Jawilson18\obj\Debug\net6.0\ref\mis-221-lab-4-Jawilson18.dll
